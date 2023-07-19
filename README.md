@@ -1,8 +1,29 @@
 ### Hi there friends👋
 
-Do you like my profile?
-
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300" alt="Batman">
+
+* 🔭 I’m currently working on my Portfolio Website
+* 🌱 Currently learning Data Structure and Algorithms
+* 👯 Looking to collaborate on building an electron application
+
+Teckstack/Languages:
+- [x] C
+- [ ] C++
+- [x] JAVA
+- [x] Javascript
+- [ ] Python
+- [x] MongoDB
+- [x] mySQL
+- [x] Oracle
+- [x] HTML
+- [x] CSS
+- [x] Bootstrap
+- [ ] Tailwind css
+- [x] Angular
+- [ ] React
+
+
+📫 How to reach me:
 
 Follow me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
 <!--
