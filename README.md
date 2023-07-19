@@ -4,6 +4,8 @@ Do you like my profile?
 
 ![Batman](https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png)
 
+<img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300">
+
 Follow me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
 <!--
 **sumeetskd/sumeetskd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
