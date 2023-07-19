@@ -2,6 +2,7 @@
 
 Do you like my profile?
 
+Follow me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
 <!--
 **sumeetskd/sumeetskd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
