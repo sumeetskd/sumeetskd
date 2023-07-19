@@ -1,4 +1,7 @@
-### Hi there friends👋
+### Hi Everyone👋
+
+I am a Frontend Web Developer, an Open Source Enthusiast and currently exploring Motion Graphics and UI/UX Animation.
+I am from Odisha, India.
 
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300" alt="Batman">
 
