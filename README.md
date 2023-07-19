@@ -2,9 +2,7 @@
 
 Do you like my profile?
 
-![Batman](https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png)
-
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300">
+<img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300" alt="Batman">
 
 Follow me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
 <!--
