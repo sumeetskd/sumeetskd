@@ -72,8 +72,8 @@ LeetCode Stats:
 
 📫 How to reach me:
 
-- DM me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
-- Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmailcom)
+- DM me on twitter [@sumeetskd](https://twitter.com/sumeetskd)
+- Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmail.com)
 
 <!--
 **sumeetskd/sumeetskd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
