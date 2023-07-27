@@ -72,7 +72,7 @@ LeetCode Stats:
 
 📫 How to reach me:
 
-- DM me on twitter [@sumeetskd](https://twitter.com/sumeetsdk)
+- DM me on twitter [@sumeetsdk](https://twitter.com/sumeetsdk)
 - Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmail.com)
 
 <!--
