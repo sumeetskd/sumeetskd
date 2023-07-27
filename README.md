@@ -56,7 +56,8 @@ Languages and Tools:
 
 📫 How to reach me:
 
-Follow me on twitter [@FlayerFx](https://twitter.com/FlayerFx)
+- DM me on twitter [@sumeetsdk](https://twitter.com/sumeetsdk)
+- Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmail.com)
 
 Github Stats:
 
@@ -70,10 +71,6 @@ LeetCode Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sumeet14?theme=wtf&font=DM%20Sans&ext=heatmap)
 
-📫 How to reach me:
-
-- DM me on twitter [@sumeetsdk](https://twitter.com/sumeetsdk)
-- Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmail.com)
 
 <!--
 **sumeetskd/sumeetskd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
