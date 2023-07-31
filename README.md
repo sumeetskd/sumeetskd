@@ -6,9 +6,9 @@
 +const lastName = "Das";
 ```
 
-<!--I am a Frontend Web Developer, an Open Source Enthusiast and currently exploring Motion Graphics and UI/UX.-->
+I am a Frontend Web Developer, an Open Source Enthusiast and currently exploring Motion Graphics and UI/UX.
 
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300" alt="Batman">
+<!--<img src="https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png" height = "200" width = "300" alt="Batman">-->
 
 * 🔭 I’m currently working on my Portfolio Website
 * 🌱 Currently learning Data Structure and Algorithms
