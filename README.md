@@ -5,6 +5,8 @@
 -const middleName = "Kumar";
 +const lastName = "Das";
 ```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetskd" alt="sumeetskd" /></a> </p>
+
 
 I am a Frontend Web Developer, an Open Source Enthusiast and currently exploring Motion Graphics and UI/UX.
 
