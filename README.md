@@ -6,8 +6,13 @@
 -const middleName = "Kumar";
 +const lastName = "Das";
 ```
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetskd" alt="sumeetskd" /></a> </p>
+Github Stats:
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeetskd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sumeetskd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeetskd&show_icons=true&theme=tokyonight" alt="sumeetskd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetskd&theme=tokyonight" alt="sumeetskd" /></p>
 
 I am a Frontend Web Developer, an Open Source Enthusiast and currently exploring Motion Graphics and UI/UX.
 
@@ -62,17 +67,12 @@ Languages and Tools:
 - DM me on twitter [@sumeetsdk](https://twitter.com/sumeetsdk)
 - Drop an Email - [sumeetkumards@gmail.com](sumeetkumards@gmail.com)
 
-Github Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeetskd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sumeetskd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeetskd&show_icons=true&theme=tokyonight" alt="sumeetskd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetskd&theme=tokyonight" alt="sumeetskd" /></p>
-
 LeetCode Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sumeet14?theme=wtf&font=DM%20Sans&ext=heatmap)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetskd" alt="sumeetskd" /></a> </p>
 
 
 <!--
